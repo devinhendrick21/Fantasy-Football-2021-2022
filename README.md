@@ -7,3 +7,4 @@
 * When run, the file "create_database" will create the database and populate all tables with data
   *   When run, the file "create_empty_database" will create the database, but the tables won't be populated with data
   *   All tables can be found as csv files in the "Tables" folder 
+* ERD can be found in the "fantasy2021.mwb" file
