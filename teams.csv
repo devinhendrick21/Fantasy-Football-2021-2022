@@ -1,0 +1,33 @@
+team_id,team_name,conference,State,City,sos_last_year,sos_this_year
+1,Cowboys,NFC,TX,Dallas,0.459,0.452
+2,Giants,NFC,NY,East Rutherford,0.482,0.474
+3,Eagles,NFC,PA,Philadelphia,0.486,0.43
+4,WFT,NFC,MD,Washington D.C.,0.465,0.504
+5,Bears,NFC,IL,Chicago,0.509,0.55
+6,Lions,NFC,MI,Detroit,0.525,0.529
+7,Packers,NFC,WI,Green Bay,0.504,0.542
+8,Vikings,NFC,MN,Minnesota,0.516,0.531
+9,Falcons,NFC,GA,Atlanta,0.525,0.454
+10,Panthers,NFC,NC,Charlotte,0.5,0.472
+11,Saints,NFC,LA,New Orleans,0.49,0.483
+12,Bucs,NFC,FL,Tampa Bay,0.502,0.465
+13,Cardinals,NFC,AZ,Pheonix,0.518,0.507
+14,Rams,NFC,CA,Los Angeles,0.516,0.515
+15,49ers,NFC,CA,San Fransico,0.527,0.489
+16,Seahawks,NFC,WA,Seattle,0.509,0.511
+17,Bills,AFC,NY,Buffalo,0.525,0.478
+18,Dolphins,AFC,FL,Miami,0.529,0.471
+19,Patriots,AFC,MA,New England,0.537,0.489
+20,Jets,AFC,NY,East Rutherford,0.533,0.489
+21,Ravens,AFC,MD,Baltimore,0.438,0.563
+22,Bengals,AFC,OH,Cincinnati,0.477,0.529
+23,Browns,AFC,OH,Cleveland,0.461,0.518
+24,Steelers,AFC,PA,Pittsburgh,0.457,0.574
+25,Texans,AFC,TX,Houston,0.518,0.504
+26,Colts,AFC,IN,Indianapolis,0.502,0.478
+27,Jaguars,AFC,FL,Jacksonville,0.494,0.491
+28,Titans,AFC,TN,Nashville,0.498,0.507
+28,Broncos,AFC,CO,Denver,0.512,0.471
+30,Cheifs,AFC,MO,Kansas City,0.5,0.511
+31,Raiders,AFC,NV,Las Vegas,0.496,0.526
+32,Chargers,AFC,CA,Los Angeles,0.492,0.593
