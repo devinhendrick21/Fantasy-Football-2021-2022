@@ -6,4 +6,4 @@
 * The views created are used to filter through specific statistics in order to create a final product.
 * When run, the file "create_database" will create the database and populate all tables with data
   *   When run, the file "create_empty_database" will create the database, but the tables won't be populated with data
-  *   all tables can be found as csv files in the "Tables" folder 
+  *   All tables can be found as csv files in the "Tables" folder 
